@@ -1,0 +1,141 @@
+[
+    {
+      "name": "Milk",
+      "category": "Dairy",
+      "tags": ["lactose", "casein", "whey", "cheese", "yogurt"],
+      "major": true
+    },
+    {
+      "name": "Eggs",
+      "category": "Animal Product",
+      "tags": ["egg whites", "yolk", "albumin"],
+      "major": true
+    },
+    {
+      "name": "Peanuts",
+      "category": "Nuts",
+      "tags": ["groundnuts", "peanut butter", "peanut oil"],
+      "major": true
+    },
+    {
+      "name": "Tree Nuts",
+      "category": "Nuts",
+      "tags": ["almonds", "walnuts", "cashews", "hazelnuts", "pecans", "pistachios"],
+      "major": true
+    },
+    {
+      "name": "Soy",
+      "category": "Legumes",
+      "tags": ["soybean", "tofu", "soy lecithin", "edamame"],
+      "major": true
+    },
+    {
+      "name": "Wheat",
+      "category": "Grains",
+      "tags": ["gluten", "flour", "semolina", "farina"],
+      "major": true
+    },
+    {
+      "name": "Fish",
+      "category": "Seafood",
+      "tags": ["salmon", "tuna", "cod", "haddock"],
+      "major": true
+    },
+    {
+      "name": "Shellfish",
+      "category": "Seafood",
+      "tags": ["shrimp", "crab", "lobster", "scallops"],
+      "major": true
+    },
+    {
+      "name": "Sesame",
+      "category": "Seeds",
+      "tags": ["tahini", "sesame oil", "sesame paste"],
+      "major": true
+    },
+    {
+      "name": "Gluten",
+      "category": "Grains",
+      "tags": ["barley", "rye", "malt", "wheat"],
+      "major": false
+    },
+    {
+      "name": "Mustard",
+      "category": "Condiment",
+      "tags": ["mustard seeds", "mustard oil"],
+      "major": false
+    },
+    {
+      "name": "Lupin",
+      "category": "Legumes",
+      "tags": ["lupin flour", "lupini beans"],
+      "major": false
+    },
+    {
+      "name": "Corn",
+      "category": "Grains",
+      "tags": ["corn starch", "corn syrup", "popcorn"],
+      "major": false
+    },
+    {
+      "name": "Celery",
+      "category": "Vegetables",
+      "tags": ["celery seed", "celery salt"],
+      "major": false
+    },
+    {
+      "name": "Sulfites",
+      "category": "Preservatives",
+      "tags": ["sulphur dioxide", "E220", "metabisulfite"],
+      "major": false
+    },
+    {
+      "name": "MSG",
+      "category": "Additives",
+      "tags": ["monosodium glutamate", "flavor enhancer"],
+      "major": false
+    },
+    {
+      "name": "Artificial Colors",
+      "category": "Additives",
+      "tags": ["Red 40", "Yellow 5", "Blue 1"],
+      "major": false
+    },
+    {
+      "name": "Chickpeas",
+      "category": "Legumes",
+      "tags": ["garbanzo beans", "hummus"],
+      "major": false
+    },
+    {
+      "name": "Lentils",
+      "category": "Legumes",
+      "tags": ["dal", "masoor", "moong"],
+      "major": false
+    },
+    {
+      "name": "Coconut",
+      "category": "Tree Nut (sometimes)",
+      "tags": ["coconut milk", "coconut oil"],
+      "major": false
+    },
+    {
+      "name": "Banana",
+      "category": "Fruit (Latex group)",
+      "tags": [],
+      "major": false
+    },
+    {
+      "name": "Avocado",
+      "category": "Fruit (Latex group)",
+      "tags": [],
+      "major": false
+    },
+    {
+      "name": "Kiwi",
+      "category": "Fruit (Latex group)",
+      "tags": [],
+      "major": false
+    }
+  ]
+  
