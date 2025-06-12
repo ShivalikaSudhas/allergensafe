@@ -1,0 +1,57 @@
+[
+    {
+      "name": "Milk",
+      "category": "Dairy",
+      "tags": ["lactose", "casein", "whey", "cheese", "yogurt"],
+      "major": true
+    },
+    {
+      "name": "Eggs",
+      "category": "Animal Product",
+      "tags": ["egg whites", "yolk", "albumin"],
+      "major": true
+    },
+    {
+      "name": "Peanuts",
+      "category": "Nuts",
+      "tags": ["groundnuts", "peanut butter", "peanut oil"],
+      "major": true
+    },
+    {
+      "name": "Tree Nuts",
+      "category": "Nuts",
+      "tags": ["almonds", "walnuts", "cashews", "hazelnuts", "pecans", "pistachios"],
+      "major": true
+    },
+    {
+      "name": "Soy",
+      "category": "Legumes",
+      "tags": ["soybean", "tofu", "soy lecithin", "edamame"],
+      "major": true
+    },
+    {
+      "name": "Wheat",
+      "category": "Grains",
+      "tags": ["gluten", "flour", "semolina", "farina"],
+      "major": true
+    },
+    {
+      "name": "Fish",
+      "category": "Seafood",
+      "tags": ["salmon", "tuna", "cod", "haddock"],
+      "major": true
+    },
+    {
+      "name": "Shellfish",
+      "category": "Seafood",
+      "tags": ["shrimp", "crab", "lobster", "scallops"],
+      "major": true
+    },
+    {
+      "name": "Sesame",
+      "category": "Seeds",
+      "tags": ["tahini", "sesame oil", "sesame paste"],
+      "major": true
+    }
+  ]
+  
